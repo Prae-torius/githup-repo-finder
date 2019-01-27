@@ -1,0 +1,16 @@
+main {
+  width: 400px;
+  margin: 200px auto 0 auto;
+}
+
+.hidden {
+  display: hidden;
+}
+
+#results-list {
+  list-style-type: none;
+}
+
+#error {
+  color: red;
+}
